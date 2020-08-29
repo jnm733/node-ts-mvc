@@ -1,10 +1,10 @@
 # node-ts-mvc
 
-Framework **Node.js MVC** with Typescript.
+Framework **Node.js MVC** with **Typescript**.
 
-Integration with MySQL Databases (for the moment).
+Integration with **MySQL Databases** (for the moment).
 
-Web Server runs in Node Cluster mode for a better performance.
+Web Server runs in **Node Cluster** mode for a better performance.
 
 Implementation of Cron Tasks in the commands folder.
 
