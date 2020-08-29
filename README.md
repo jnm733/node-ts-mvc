@@ -6,7 +6,7 @@ Integration with **MySQL Databases** (for the moment).
 
 Web Server runs in **Node Cluster** mode for a better performance.
 
-Implementation of Cron Tasks in the commands folder.
+Implementation of **Cron Tasks** in the commands folder.
 
 ## Installation
 
